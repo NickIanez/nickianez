@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Artificail Intelligence
+- 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 
 <!--
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Artificail Intelligence
+- 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
